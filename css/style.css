@@ -59,6 +59,9 @@ body{
     scrollbar-width: thin;
     overflow-y: scroll;
 }
+.icon{
+	height: 50px;
+}
 .img{
     height: 50px;
 }
